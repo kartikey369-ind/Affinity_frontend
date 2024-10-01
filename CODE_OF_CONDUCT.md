@@ -34,9 +34,9 @@ Examples of unacceptable behavior include:
 * Discrimination or exclusion based on individual characteristics.
 
 # Reporting Violations
-If you experience or witness unacceptable behavior, you can report it by:
+If you experience or witness unacceptable behavior, you can report it by submitting a Report:
 
-Submitting a Report: Email a detailed report to [contact_email@example.com].
+Email a detailed report to rishyym0927@gmail.com.
 
 # Information to Include: 
 
@@ -68,14 +68,22 @@ This Code of Conduct applies within all project spaces, including repositories, 
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available [here][version].
+This Code of Conduct is adapted from the [Contributor
+Covenant][homepage], version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder][mozilla].
+Community Impact Guidelines were inspired by [Mozilla's code of
+conduct enforcement ladder](https://github.com/mozilla/diversity).
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see the
+FAQ at https://www.contributor-covenant.org/faq. Translations are
+available at https://www.contributor-covenant.org/translations.
+
 
 ## Contact Information
 
-For any questions or further clarification, please contact [contact_email@example.com].
+For any questions or further clarification, please contact rishyym0927@gmail.com.
 
-For answers to common questions about this Code of Conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
+
